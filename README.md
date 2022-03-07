@@ -20,6 +20,6 @@ Hello! My name is Infinity, and I am an american based developer! I would link a
 
 # Stats
 
-<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityDevTech&count_private=true) 
-</p>
+<a href="https://github.com/InfinityDevTech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=InfinityDevTech&count_private=true" />
+</a>
