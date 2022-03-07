@@ -6,5 +6,4 @@ Hello! My name is Infinity, and I am an american based developer! I would link a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityDevTech&count_private=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityDevTech)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=InfinityDevTech)](https://infinity-dev.tech/)
