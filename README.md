@@ -1,6 +1,6 @@
 ## InfinityDev
 
-Hello! My name is Infinity, and I am an american based developer! Heres my [website](https://infdev.netlify.app/)!
+Hello! My name is Infinity, and I am an american based developer! Heres my [website](https://infinity-dev.xyz/)!
 
 # Tools I use
 
