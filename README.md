@@ -20,6 +20,9 @@ Hello! My name is Infinity, and I am an american based developer! Heres my [webs
 
 # Stats
 
-<a href="https://github.com/InfinityDevTech">
+<a href="https://infinity-dev.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=InfinityDevTech&count_private=true" />
+</a>
+<a href="https://infinity-dev.xyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitydevtech" />
 </a>
