@@ -24,5 +24,5 @@ Hello! My name is Infinity, and I am an american based developer! Heres my [webs
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=InfinityDevTech&count_private=true" />
 </a>
 <a href="https://infinity-dev.xyz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitydevtech" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitydevtech&layout=compact" />
 </a>
